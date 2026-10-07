@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300">
+  <g fill="none" stroke="#E8952F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- stylized three-leaf mark traced from the reference -->
+    <path d="M260 22 C244 42 244 64 260 78 C276 64 276 42 260 22 Z"/>
+    <path d="M255 78 C224 68 202 48 199 27 C225 27 249 43 255 78 Z"/>
+    <path d="M265 78 C296 68 318 48 321 27 C295 27 271 43 265 78 Z"/>
+    <path d="M260 70 C260 91 260 103 260 118"/>
+    <path d="M260 93 C246 81 234 75 218 72"/>
+    <path d="M260 93 C274 81 286 75 302 72"/>
+  </g>
+
+  <text x="260" y="173"
+        text-anchor="middle"
+        fill="#F4F1EC"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="57"
+        font-weight="400"
+        letter-spacing="4">SARVORA</text>
+
+  <g fill="#F4F1EC">
+    <rect x="92" y="210" width="70" height="2"/>
+    <rect x="358" y="210" width="70" height="2"/>
+  </g>
+
+  <text x="260" y="219"
+        text-anchor="middle"
+        fill="#F4F1EC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="500"
+        letter-spacing="6">RESTAURANT</text>
+</svg>
